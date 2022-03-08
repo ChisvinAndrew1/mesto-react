@@ -19,7 +19,7 @@
 * Использовались технологии веб-дизайна на основе html и css + JavaScript, обучение по проекту;
 ![яндекс](https://github.com/ChisvinAndrew1/how-to-learn/blob/573f6bef7fb92abcaacb99dfb18825e118c8be34/images/logo_place_header.svg)
 * Применялась технология адаптивной верстки, элементы DOM-дерева, знаний javaScript, React
-![java](images/javscript.png)
+![java](mesto-react/src/images/javscript.png)
 
 
 [**Ссылка на проект**](https://chisvinandrew1.github.io/mesto-react/mesto-react/public/index.html)
