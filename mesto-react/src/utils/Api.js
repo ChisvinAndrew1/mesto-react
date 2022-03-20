@@ -80,8 +80,8 @@ class Api {
     }).then(this._setPromiseStatus);
   }
 
-  checkDateLike({ _isLiked, _id }) {
-    return _isLiked ? this._removeLike(_id) : this._addLike(_id);
+  checkDateLike(_isLiked, _id) {
+    return _isLiked ? this._addLike(_id) : this._removeLike(_id);
   }
 }
 

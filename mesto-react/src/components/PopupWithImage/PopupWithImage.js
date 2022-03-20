@@ -1,3 +1,5 @@
+import React from "react";
+
 function PopupWithImage({ onClose, card }) {
   return (
     <section
