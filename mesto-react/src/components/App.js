@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import api from "../utils/Api";
 
-import Header from "./Headering/Header";
-import Main from "./Maining/Main";
-import Footer from "./Footering/Footer";
+import Header from "./Header/Header";
+import Main from "./Main/Main";
+import Footer from "./Footer/Footer";
 import PopupWithForm from "./PopupWithForm/PopupWithForm";
 import PopupWithImage from "./PopupWithImage/PopupWithImage";
 import EditProfilePopup from "./EditProfilePopup/EditProfilePopup";
