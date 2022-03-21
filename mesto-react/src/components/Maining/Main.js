@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../Card/Card.js";
+import Card from "../Carding/Card.js";
 import { CurrentUserContext } from "../../contexts/CurrentUserContext";
 
 function Main({
